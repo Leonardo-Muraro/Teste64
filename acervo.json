@@ -1,0 +1,716 @@
+[
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "isbn": "1001",
+        "status_emprestimo": true,
+        "membro_id_emprestado": 1
+    },
+    {
+        "titulo": "Harry Potter e a C\u00e2mara Secreta",
+        "autor": "J.K. Rowling",
+        "isbn": "1002",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Em Busca do Tempo Perdido",
+        "autor": "Marcel Proust",
+        "isbn": "9334",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Ulysses",
+        "autor": "James Joyce",
+        "isbn": "5598",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "isbn": "7822",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Grande Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "isbn": "5787",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Cem Anos de Solid\u00e3o",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "isbn": "9825",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Moby Dick",
+        "autor": "Herman Melville",
+        "isbn": "6099",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Guerra e Paz",
+        "autor": "Lev Tolst\u00f3i",
+        "isbn": "4382",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "isbn": "5226",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "isbn": "9708",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Apanhador no Campo de Centeio",
+        "autor": "J. D. Salinger",
+        "isbn": "8145",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Odisseia",
+        "autor": "Homero",
+        "isbn": "6671",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "isbn": "7724",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Som e a F\u00faria",
+        "autor": "William Faulkner",
+        "isbn": "1854",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "isbn": "7127",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "As Vinhas da Ira",
+        "autor": "John Steinbeck",
+        "isbn": "9945",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Grandes Esperan\u00e7as",
+        "autor": "Charles Dickens",
+        "isbn": "5736",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "As Viagens de Gulliver",
+        "autor": "Jonathan Swift",
+        "isbn": "8473",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Processo",
+        "autor": "Franz Kafka",
+        "isbn": "8605",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Vermelho e o Negro",
+        "autor": "Stendhal",
+        "isbn": "6519",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Sol \u00e9 Para Todos",
+        "autor": "Harper Lee",
+        "isbn": "4312",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Madame Bovary",
+        "autor": "Gustave Flaubert",
+        "isbn": "3673",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Cora\u00e7\u00e3o das Trevas",
+        "autor": "Joseph Conrad",
+        "isbn": "2667",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Morro dos Ventos Uivantes",
+        "autor": "Emily Bront\u00eb",
+        "isbn": "1460",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Anna Karenina",
+        "autor": "Liev Tolst\u00f3i",
+        "isbn": "9566",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Alice no Pa\u00eds das Maravilhas",
+        "autor": "Lewis Carroll",
+        "isbn": "2100",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Il\u00edada",
+        "autor": "Homero",
+        "isbn": "7307",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Ao Faro",
+        "autor": "Virginia Woolf",
+        "isbn": "1419",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Estrangeiro",
+        "autor": "Albert Camus",
+        "isbn": "4028",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Montanha M\u00e1gica",
+        "autor": "Thomas Mann",
+        "isbn": "2358",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Retrato do Artista Quando Jovem",
+        "autor": "James Joyce",
+        "isbn": "9115",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "isbn": "2068",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Crime e Castigo",
+        "autor": "Fi\u00f3dor Dostoi\u00e9vski",
+        "isbn": "3609",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Senhor dos An\u00e9is",
+        "autor": "J. R. R. Tolkien",
+        "isbn": "6677",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Divina Com\u00e9dia",
+        "autor": "Dante Alighieri",
+        "isbn": "9865",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "As Aventuras de Huckleberry Finn",
+        "autor": "Mark Twain",
+        "isbn": "7346",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Middlemarch: Um Estudo da Vida Provinciana",
+        "autor": "George Eliot",
+        "isbn": "1601",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Absal\u00e3o, Absal\u00e3o!",
+        "autor": "William Faulkner",
+        "isbn": "5250",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Amada",
+        "autor": "Toni Morrison",
+        "isbn": "7586",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Jane Eyre",
+        "autor": "Charlotte Bront\u00eb",
+        "isbn": "1814",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "As Mil e Uma Noites",
+        "autor": "Contos da \u00cdndia, Ir\u00e3, Iraque e Egito",
+        "isbn": "7541",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Mrs Dalloway",
+        "autor": "Virginia Woolf",
+        "isbn": "3153",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Contos de Anton Chekhov",
+        "autor": "Anton Tchekhov",
+        "isbn": "7868",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Sol Tamb\u00e9m se Levanta",
+        "autor": "Ernest Hemingway",
+        "isbn": "8701",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "David Copperfield",
+        "autor": "Charles Dickens",
+        "isbn": "3303",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Os Filhos da Meia-Noite",
+        "autor": "Salman Rushdie",
+        "isbn": "9186",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Fic\u00e7\u00f5es",
+        "autor": "Jorge Luis Borges",
+        "isbn": "1808",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Vida e as Opini\u00f5es de Tristram Shandy",
+        "autor": "Laurence Sterne",
+        "isbn": "1133",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Folhas de Relva",
+        "autor": "Walt Whitman",
+        "isbn": "4204",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Eneida",
+        "autor": "Virg\u00edlio",
+        "isbn": "3381",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "C\u00e2ndido, ou O Otimismo",
+        "autor": "Voltaire",
+        "isbn": "4030",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Os Miser\u00e1veis",
+        "autor": "Victor Hugo",
+        "isbn": "5824",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Uma Passagem Para a \u00cdndia",
+        "autor": "Edward Morgan Foster",
+        "isbn": "6457",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Velho e o Mar",
+        "autor": "Ernest Hemingway",
+        "isbn": "3444",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Mundo se Despeda\u00e7a",
+        "autor": "Chinua Achebe",
+        "isbn": "9858",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Por Quem os Sinos Dobram",
+        "autor": "Ernest Hemingway",
+        "isbn": "8552",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "As Hist\u00f3rias Completas de Franz Kafka",
+        "autor": "Franz Kafka",
+        "isbn": "4161",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Retrato de Uma Senhora",
+        "autor": "Henry James",
+        "isbn": "8294",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Fogo P\u00e1lido",
+        "autor": "Vladimir Nabokov",
+        "isbn": "1644",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Idiota",
+        "autor": "Fi\u00f3dor Dostoi\u00e9vski",
+        "isbn": "6844",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Enquanto Agonizo",
+        "autor": "William Faulkner",
+        "isbn": "2115",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "\u00c9dipo Rei",
+        "autor": "S\u00f3focles",
+        "isbn": "5965",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Cor P\u00farpura",
+        "autor": "Alice Walker",
+        "isbn": "6898",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "E O Vento Levou",
+        "autor": "Margaret Mitchell",
+        "isbn": "5028",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Senhor das Moscas",
+        "autor": "William Golding",
+        "isbn": "6153",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Admir\u00e1vel Mundo Novo",
+        "autor": "Aldous Huxley",
+        "isbn": "2218",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Os Melhores Contos e Poemas de Edgar Allan Poe",
+        "autor": "Edgar Allan Poe",
+        "isbn": "9426",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Emma",
+        "autor": "Jane Austen",
+        "isbn": "1779",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A \u00c9poca da Inoc\u00eancia",
+        "autor": "Edith Wharton",
+        "isbn": "5900",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Almas Mortas",
+        "autor": "Nikolai Gogol",
+        "isbn": "6775",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "On The Road: P\u00e9 na Estrada",
+        "autor": "Jack Kerouac",
+        "isbn": "7366",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Bom Soldado",
+        "autor": "Ford Madox Ford",
+        "isbn": "2257",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Revolu\u00e7\u00e3o dos Bichos",
+        "autor": "George Orwell",
+        "isbn": "7832",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Os Contos da Cantu\u00e1ria",
+        "autor": "Geoffrey Chaucer",
+        "isbn": "6111",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Metamorfose",
+        "autor": "Franz Kafka",
+        "isbn": "5552",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "isbn": "9677",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Feira das Vaidades",
+        "autor": "William Makepeace Thackeray",
+        "isbn": "5817",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "\u00c0 Sombra do Vulc\u00e3o",
+        "autor": "Malcolm Lowry",
+        "isbn": "1648",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Terra In\u00fatil",
+        "autor": "T. S. Eliot",
+        "isbn": "5375",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Adeus \u00e0s Armas",
+        "autor": "Ernest Hemingway",
+        "isbn": "8352",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Journey to the End of the Night",
+        "autor": "Louis-Ferdinand C\u00e9line",
+        "isbn": "9665",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Castelo",
+        "autor": "Franz Kafka",
+        "isbn": "6354",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Educa\u00e7\u00e3o Sentimental",
+        "autor": "Gustave Flaubert",
+        "isbn": "8441",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Letra Escarlate",
+        "autor": "Nathaniel Hawthorne",
+        "isbn": "2284",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Matadouro 5",
+        "autor": "Kurt Vonnegut",
+        "isbn": "6753",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "O Conto da Aia",
+        "autor": "Margaret Atwood",
+        "isbn": "5524",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "A Menina e o Porquinho",
+        "autor": "Elwyn Brooks White",
+        "isbn": "5327",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Native Son",
+        "autor": "Richard Wright",
+        "isbn": "7178",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Para\u00edso Perdido",
+        "autor": "John Milton",
+        "isbn": "2594",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Garg\u00e2ntua e Pantagruel",
+        "autor": "Fran\u00e7ois Rabelais",
+        "isbn": "7585",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Fausto",
+        "autor": "Johann Wolfgang von Goethe",
+        "isbn": "5963",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Rebecca",
+        "autor": "Daphne du Maurier",
+        "isbn": "9584",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Os Dem\u00f4nios",
+        "autor": "Fi\u00f3dor Dostoi\u00e9vski",
+        "isbn": "9867",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "As Flores do Mal",
+        "autor": "Charles Baudelaire",
+        "isbn": "4947",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Ant\u00edgona",
+        "autor": "S\u00f3focles",
+        "isbn": "3533",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Tess Dos D'Urbervilles",
+        "autor": "Thomas Hardy",
+        "isbn": "7443",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Robinson Cruso\u00e9",
+        "autor": "Daniel Defoe",
+        "isbn": "5387",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Seus Olhos Viam Deus",
+        "autor": "Zora Neale Hurston",
+        "isbn": "3277",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Tom Jones",
+        "autor": "Henry Fielding",
+        "isbn": "2595",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Livro Gen\u00e9rico 99",
+        "autor": "Autor Gen\u00e9rico",
+        "isbn": "8438",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    },
+    {
+        "titulo": "Livro Gen\u00e9rico 100",
+        "autor": "Autor Gen\u00e9rico",
+        "isbn": "1054",
+        "status_emprestimo": false,
+        "membro_id_emprestado": null
+    }
+]
